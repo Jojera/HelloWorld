@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "This project is a simple Hello World program written in JavaScript and executed using Node.js. The goal is to strengthen my foundation in software development by learning how to set up a runtime environment, write basic code, and run it successfully outside of the browser.",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node helloworld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jojera/HelloWorld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jojera/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/Jojera/HelloWorld#readme"
+}
