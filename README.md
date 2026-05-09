@@ -7,10 +7,6 @@ The purpose of this software is to demonstrate the ability to:
 -Write a minimal JavaScript program.
 -Execute the program in a terminal environment.
 
-# Demonstration video
-
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 Tools Used:
